@@ -36,14 +36,14 @@ export const Hero = () => {
             />
             <Image
               src={cylinderImage}
-              alt="cylinderImage"
+              alt="Cylinder Image"
               width={220}
               height={220}
               className="hidden md:block -top-8 -left-32 md:absolute"
             />
             <Image
               src={noodleImage}
-              alt="noodleImage"
+              alt="Noodle Image"
               width={220}
               height={220}
               className="hidden lg:block top-[524px] left-[448px] md:absolute rotate-[30deg]"
